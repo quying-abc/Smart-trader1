@@ -1,0 +1,22 @@
+{
+    "resultCode": "200",
+    "data": [
+        {
+            "alertsTitle": "科创板还能涨吗？",
+"alerts": [
+                {
+                    "alertsValue": "科创板诞生超120位亿万富豪，三个百亿市值家族浮现",
+                    "alertsMonth": "7月",
+                    "alertsDay": "23"
+                },
+                {
+                    "alertsValue": "科创板开市，个股涨400%，市盈率最高近800倍",
+                    "alertsMonth": "7月",
+                    "alertsDay": "22"
+                }
+            ]
+        }
+
+    ],
+    "message": "成功"
+}
